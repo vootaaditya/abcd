@@ -1,0 +1,38 @@
+{
+  "columns": [
+    {
+      "name": "chargeNumber",
+      "id": 1,
+      "options": [
+        "one",
+        "two",
+        "three"
+      ]
+    },
+    {
+      "name": "IsMisc",
+      "id": 2,
+      "options": [
+        "M",
+        "D",
+        "F"
+      ]
+    },
+     {
+      "name": "dueDate",
+      "id": 3,
+      "options": [
+        "2018-05-15",
+        "2018-05-16",
+        "2018-05-17"
+      ]
+    }
+  ]
+
+}
+
+
+
+
+
+//paste  it in "jsoneditoronline.org" or any other online editors for json data//
